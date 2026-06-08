@@ -1,0 +1,6 @@
+# Ignore these files
+venv/
+__pycache__/
+.env
+*.pkl
+*.db
